@@ -1,1 +1,7 @@
 sphinx
+requests_mock
+PyYAML==6.0.1
+clyent==1.2.1
+requests==2.31.0
+pytest
+sphinx-rtd-theme
