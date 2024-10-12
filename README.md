@@ -11,4 +11,4 @@ PySift is a Python library developed to simplify data cleaning tasks.
 As the sole developer, I am actively working on enhancing its features and performance. Please note that the library may still have bugs or incomplete functionality. I appreciate your understanding and welcome any feedback or contributions to improve this project.
 
 ## Documentation
-See the latest (and, possibly unstable) documentation [here](pysift.readthedocs.io).
+See the latest (and, possibly unstable) documentation [here](https://pysift.readthedocs.io/en/latest/).
