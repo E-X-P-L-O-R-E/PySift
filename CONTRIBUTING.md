@@ -6,7 +6,7 @@ Thank you for your interest in contributing to **PySift**! As of now, I am the s
 
 1. **Understand the Project**: 
    - Familiarize yourself with the goals and functionality of PySift by reading the documentation and exploring the existing codebase. 
-   - Check out the [README.md](link-to-readme) for an overview of the project, its features, and how to set it up.
+   - Check out the [README.md](README.md) for an overview of the project, its features, and how to set it up.
 
 2. **Wait for MVP Release**: 
    - Currently, I am focused on finalizing the MVP of PySift. Until the MVP is released, I will not be actively accepting contributions. 
