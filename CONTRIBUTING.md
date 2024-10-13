@@ -22,7 +22,7 @@ Thank you for your interest in contributing to **PySift**! As of now, I am the s
 
 ## Code of Conduct
 
-All contributors are expected to adhere to the [Code of Conduct](CoC.md). Please be respectful and supportive of one another. The goal is to foster an inclusive and collaborative community.
+All contributors are expected to adhere to the [Code of Conduct](CODE_OF_CONDUCT.md). Please be respectful and supportive of one another. The goal is to foster an inclusive and collaborative community.
 
 ## Future Contribution Process
 
